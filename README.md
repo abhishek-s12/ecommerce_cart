@@ -75,7 +75,13 @@ npm run preview
 
 ## 📸 Screenshots
 
-Add screenshots of your application here.
+
+<img width="953" height="537" alt="Screenshot 2026-06-19 230057" src="https://github.com/user-attachments/assets/74a9481b-c42d-4733-9ea0-a419a2a0a954" />
+<img width="680" height="439" alt="Screenshot 2026-06-19 230124" src="https://github.com/user-attachments/assets/01acb900-e112-4d84-856c-dc5af8fbcab9" />
+<img width="953" height="539" alt="Screenshot 2026-06-19 230150" src="https://github.com/user-attachments/assets/76fafd8d-d44b-4aa4-be19-4c74fa5c4227" />
+<img width="461" height="490" alt="Screenshot 2026-06-19 230258" src="https://github.com/user-attachments/assets/dbb3ec5f-3cbf-4180-9c05-86a7ac362c84" />
+
+
 
 ## 🎯 Learning Outcomes
 
