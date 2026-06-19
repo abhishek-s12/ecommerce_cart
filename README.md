@@ -1,16 +1,98 @@
-# React + Vite
+# 🛒 Ecommerce Cart
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern ecommerce cart application built with React and Vite. This project demonstrates product browsing, shopping cart management, and a responsive user interface.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Product listing interface
+- Add products to cart
+- Remove products from cart
+- Update product quantities
+- Cart total calculation
+- Responsive design
+- Fast development with Vite
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- Vite
+- JavaScript (ES6+)
+- CSS3
+- ESLint
 
-## Expanding the ESLint configuration
+## 📂 Project Structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```
+ecommerce-cart/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/abhishek-s12/ecommerce_cart.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd ecommerce_cart
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+Preview the production build:
+
+```bash
+npm run preview
+```
+
+## 📸 Screenshots
+
+Add screenshots of your application here.
+
+## 🎯 Learning Outcomes
+
+- React component architecture
+- State management using React Hooks
+- Event handling
+- Dynamic UI rendering
+- Project structure and organization
+- Git and GitHub workflow
+
+## 👨‍💻 Author
+
+**Abhishek Kumar**
+
+- GitHub: https://github.com/abhishek-s12
+- LinkedIn: https://www.linkedin.com/in/abhishek-k-a16468351/
+
+## 📄 License
+
+This project is open source and available under the MIT License.
